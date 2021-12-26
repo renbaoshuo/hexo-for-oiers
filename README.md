@@ -4,8 +4,8 @@
 
 ## 特性
 
-- 使用 [hexo-theme-icarus](https://github.com/ppoffice/hexo-theme-icarus) 主题，美观、简洁、大方。
-- 使用 Markdown 写作，并使用 Mathjax 渲染数学公式。
+- 基于 [hexo-theme-icarus](https://github.com/ppoffice/hexo-theme-icarus) 主题，并做了一些小改动以符合 OIer 们的使用习惯，美观、简洁、大方。
+- 使用 Markdown 写作，并使用 Mathjax 渲染数学公式（可切换为 KaTeX）。
 - 开箱即用，基本无需配置。
 
 ## 快速开始
