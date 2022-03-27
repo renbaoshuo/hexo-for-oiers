@@ -11,7 +11,7 @@ logo:
 # 页面元数据配置
 head:
   # 网站图标的 URL 或路径
-  favicon: /img/favicon.svg
+  favicon: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
 
   # Web App 配置
   # https://developer.mozilla.org/en-US/docs/Web/Manifest
