@@ -206,17 +206,17 @@ widgets:
     # 作者
     author: Hexo for OIers
     # Author title
-    author_title: OI Wiki Team
+    author_title:
     # 位置
-    location: Earth
+    location: localhost
     # 头像
-    avatar: https://avatars3.githubusercontent.com/u/41097204?s=200&v=4
+    avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
     # 是否使用圆形头像
     avatar_rounded: false
     # Gravatar 邮箱地址
     gravatar:
     # 「关注我」按钮的链接
-    follow_link: https://github.com/OI-Wiki
+    follow_link: https://github.com/renbaoshuo
     # 社交按钮
     social_links:
       Github:
