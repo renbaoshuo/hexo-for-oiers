@@ -133,7 +133,7 @@ footer:
       url: "https://creativecommons.org/licenses/by/4.0/"
     Download on GitHub:
       icon: fab fa-github
-      url: "https://github.com/ppoffice/hexo-theme-icarus"
+      url: "https://github.com/renbaoshuo/hexo-for-oiers"
 
 # 文章相关配置
 article:
@@ -221,7 +221,7 @@ widgets:
     social_links:
       Github:
         icon: fab fa-github
-        url: https://github.com/OI-Wiki
+        url: https://github.com/renbaoshuo/hexo-for-oiers
       RSS:
         icon: fas fa-rss
         url: /atom.xml
@@ -241,8 +241,8 @@ widgets:
     links:
       Hexo: https://hexo.io
       Bulma: https://bulma.io
-      OI Wiki: https://oi-wiki.org
       Baoshuo: https://baoshuo.ren
+      Hexo for OIers: https://github.com/renbaoshuo/hexo-for-oiers
   # 分类
   - position: left
     type: categories
@@ -291,16 +291,16 @@ plugins:
   # 提醒用户使用 cookie
   # https://www.osano.com/cookieconsent/
   cookie_consent:
-    # The compliance type. Can be "info", "opt-in", or "opt-out"
-    type: info
-    # Theme of the popup. Can be "block", "edgeless", or "classic"
-    theme: edgeless
-    # Whether the popup should stay static regardless of the page scrolls
-    static: false
-    # Where on the screen the consent popup should display
-    position: bottom-left
-    # URL to your site's cookie policy
-    policyLink: "https://www.cookiesandyou.com/"
+    ## The compliance type. Can be "info", "opt-in", or "opt-out"
+    # type: info
+    ## Theme of the popup. Can be "block", "edgeless", or "classic"
+    # theme: edgeless
+    ## Whether the popup should stay static regardless of the page scrolls
+    # static: false
+    ## Where on the screen the consent popup should display
+    # position: bottom-left
+    ## URL to your site's cookie policy
+    # policyLink: "https://www.cookiesandyou.com/"
   # 启用 lightGallery 和 Justified Gallery 插件
   gallery: true
   # Hotjar 用户反馈插件
