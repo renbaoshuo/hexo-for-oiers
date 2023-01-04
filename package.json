@@ -25,6 +25,6 @@
     "hexo-renderer-stylus": "^2.1.0",
     "hexo-server": "^3.0.0",
     "hexo-theme-icarus": "^4.5.0",
-    "patch-package": "^6.4.7"
+    "patch-package": "^6.5.1"
   }
 }
