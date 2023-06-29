@@ -3,7 +3,7 @@
     "endOfLine": "lf",
     "overrides": [
         {
-            "files": "*.md",
+            "files": "*.{md,json,yml,yaml}",
             "options": {
                 "tabWidth": 2
             }

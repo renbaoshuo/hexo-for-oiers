@@ -1,5 +1,5 @@
 # 配置文件版本
-version: 4.0.0
+version: 5.1.0
 
 # 主题变体，可以是 default 或 cyberpunk
 variant: default
