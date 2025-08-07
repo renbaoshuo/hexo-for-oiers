@@ -9,14 +9,16 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v2
         with:
           fetch-depth: 0
-      - name: Use Node.js 20
+      - name: Use Node.js 18
         uses: actions/setup-node@v3
         with:
-          node-version: 20
+          node-version: 18
           cache: yarn
       - name: Install Dependencies
         run: yarn install --frozen-lockfile
