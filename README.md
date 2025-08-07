@@ -1,4 +1,4 @@
-<img width="1335" height="785" alt="image" src="https://github.com/user-attachments/assets/89bcee0c-8edc-42c7-b655-0b2502d7d16d" /># Hexo for OIers
+# Hexo for OIers
 
 > 为 OIer 定制的 Hexo 博客模板，开箱即用。
 
