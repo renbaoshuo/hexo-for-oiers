@@ -1,4 +1,4 @@
-# Hexo for OIers
+<img width="1335" height="785" alt="image" src="https://github.com/user-attachments/assets/89bcee0c-8edc-42c7-b655-0b2502d7d16d" /># Hexo for OIers
 
 > 为 OIer 定制的 Hexo 博客模板，开箱即用。
 
@@ -18,13 +18,17 @@
 
 输入仓库名称，如 `[用户名].github.io`（若使用子目录需要配置 `_config.yml` 中的 `root` 选项）。
 
+<img width="1335" height="785" alt="image" src="https://github.com/user-attachments/assets/0d5df67a-65dd-4e17-8371-0f74e4036bbc" />
+
+第一次使用前，请先在 **Settings - Pages - Source** 改为 Github Actions，以便于首次部署。
+
 ![image](https://user-images.githubusercontent.com/47095648/147398116-b5945e08-b567-4366-b3e4-2ccbd5bb5ff1.png)
 
 新建仓库完成后，修改 `_config.yml` 中的 `url` 选项。
 
 ![image](https://user-images.githubusercontent.com/47095648/147398112-550a4c8a-a946-4962-b0c7-28191cfcffb8.png)
 
-然后在 **Settings** 中的 **Pages** 选项卡下将站点分支设置为 `gh-pages` 。
+然后在 **Settings** 中的 **Pages** 选项卡下调整为 Deploy from a Branch，并且将站点分支设置为 `gh-pages` 。
 
 在 `sources/_posts` 文件夹下新建一个 `.md` 文件，然后愉快地开始你的写作吧！
 
