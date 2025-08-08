@@ -26,10 +26,6 @@
 
 新建仓库完成后，修改 `_config.yml` 中的 `url` 选项。
 
-![image](https://user-images.githubusercontent.com/47095648/147398112-550a4c8a-a946-4962-b0c7-28191cfcffb8.png)
-
-然后在 **Settings** 中的 **Pages** 选项卡下调整为 Deploy from a Branch，并且将站点分支设置为 `gh-pages` 。
-
 在 `sources/_posts` 文件夹下新建一个 `.md` 文件，然后愉快地开始你的写作吧！
 
 > 小提示：可以在仓库主页按下键盘上的 <kbd>.</kbd> 以打开网页版的 VSCode 编辑器。
