@@ -35,4 +35,4 @@
 **Hexo for OIers** © [Baoshuo](https://github.com/renbaoshuo).<br>
 Authored and maintained by Baoshuo with help from [contributors](https://github.com/renbaoshuo/hexo-for-oiers/contributors).
 
-> [Personal Website](https://baoshuo.ren) · [Blog](https://blog.baoshuo.ren) · GitHub [@renbaoshuo](https://github.com/renbaoshuo) · Twitter [@renbaoshuo](https://twitter.com/renbaoshuo)
+> [Personal Website](https://baoshuo.ren) · [Blog](https://blog.baoshuo.ren) · GitHub [@renbaoshuo](https://github.com/renbaoshuo)
