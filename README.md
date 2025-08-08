@@ -20,13 +20,13 @@
 
 ![](https://github.com/user-attachments/assets/86349ba3-3c26-4f9c-a31d-e71fd2e87e8)
 
-第一次使用前，请先在 Settings -> Pages -> Build and deployment 中将 Source 改为 **Github Actions**，以便部署。
+前往仓库的 Settings，找到 Pages 下的 Build and deployment，将 Source 改为 **Github Actions**。
 
 ![image](https://user-images.githubusercontent.com/47095648/147398116-b5945e08-b567-4366-b3e4-2ccbd5bb5ff1.png)
 
-新建仓库完成后，修改 `_config.yml` 中的 `url` 选项。
+修改 `_config.yml` 中的 `url` 选项为 `https://[用户名].github.io`。
 
-在 `sources/_posts` 文件夹下新建一个 `.md` 文件，然后愉快地开始你的写作吧！
+完成以上步骤后，在 `sources/_posts` 文件夹下新建一个 `.md` 文件，然后愉快地开始你的写作吧！
 
 > 小提示：可以在仓库主页按下键盘上的 <kbd>.</kbd> 以打开网页版的 VSCode 编辑器。
 
