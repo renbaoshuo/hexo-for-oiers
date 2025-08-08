@@ -18,9 +18,9 @@
 
 输入仓库名称，如 `[用户名].github.io`（若使用子目录需要配置 `_config.yml` 中的 `root` 选项）。
 
-<img width="1335" height="785" alt="image" src="https://github.com/user-attachments/assets/0d5df67a-65dd-4e17-8371-0f74e4036bbc" />
+![](https://github.com/user-attachments/assets/86349ba3-3c26-4f9c-a31d-e71fd2e87e8)
 
-第一次使用前，请先在 **Settings - Pages - Source** 改为 Github Actions，以便于首次部署。
+第一次使用前，请先在 Settings -> Pages -> Build and deployment 中将 Source 改为 **Github Actions**，以便部署。
 
 ![image](https://user-images.githubusercontent.com/47095648/147398116-b5945e08-b567-4366-b3e4-2ccbd5bb5ff1.png)
 
